@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.line {
+  height: 1px;
+  background-color: rgb(156, 156, 156);
+}
+.list-item-wrapper {
+  display: flex;
+}
